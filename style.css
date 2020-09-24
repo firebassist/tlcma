@@ -11,7 +11,8 @@ html, body {
   color: #e57121;
 }
 
-tlcma-1 {
+.tlcma-1 {
+  font-size: 2.2em;
   color: #e57121;
 }
 
@@ -57,7 +58,7 @@ tlcma-1 {
 }
 
 .btn-primary:hover {
-  background-color: #563d7c;
+  background-color: ##e57121;
   border: 1px solid #563d7c;
 }
 
@@ -137,7 +138,7 @@ tlcma-1 {
 }
 
 footer {
-  background-color: #56509f;
+  background-color: #004080;
   color: #d5d5d5;
   padding-top: 2rem;
 }
